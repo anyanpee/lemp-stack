@@ -145,8 +145,6 @@ Test in browser:
 - `http://your-server-ip` (should show HTML)
 - `http://your-server-ip/info.php` (should show PHP info)
 
-![PHP Info Page](images/php-info-page.png)
-
 ![PHP Homepage](images/php-homepage.png)
 
 ## Project Structure
