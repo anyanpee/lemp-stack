@@ -147,6 +147,18 @@ Test in browser:
 
 ![PHP Homepage](images/php-homepage.png)
 
+
+After login into mysql console I created TODO LIST TABLE
+
+ Sudo Mysql 
+ Enter : password 
+
+![alt text](<todo list content-Screenshot 2025-08-10 084439.png>)
+
+TODO LIST ACCCESS FROM  BROWSER 
+
+![alt text](<todo list-browser-Screenshot 2025-08-10 091518.png>)
+
 ## Project Structure
 ```
 /var/www/projectlemp/
